@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "movies_lib",
+			"problemMatcher": [],
+			"label": "npm: dev - movies_lib",
+			"detail": "vite"
+		}
+	]
+}
